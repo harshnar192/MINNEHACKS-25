@@ -17,6 +17,12 @@ const MapPageView = () => {
   const vectorSource = useRef(new VectorSource());
   useGeographic();
 
+  const clearEvents = () => {
+    vectorSource.current.clear();
+    localStorage.removeItem('markers');
+    window.location.reload(); // Reload the page to reflect changes
+  };
+
   useEffect(() => {
     const osmLayer = new TileLayer({
       preload: Infinity,
@@ -92,6 +98,7 @@ const MapPageView = () => {
       <Link to="/">
         <button className="dope-button">Back to Home</button>
       </Link>
+      <button onClick={clearEvents} style={{ display: 'block', margin: '20px auto' }}>Clear All Events</button>
     </div>
   );
 };
