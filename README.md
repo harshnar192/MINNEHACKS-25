@@ -2,7 +2,7 @@
 
 # Side-Quest IRL : Prototype
 
-![Side-Quest IRL photo]("SideQuest.jpg")
+![Side-Quest IRL photo](SideQuest.jpg)
 
 # Inspiration
 Sometimes people feel spontaneous and want to go to some type of event without having any actual plans. Alternatively, maybe people want to host an event but don't have the means to advertise it and get people to go. We thought, how can we foster a stronger local community, and while doing that, let people have fun and gain rewards for going to events and maybe going out of their comfort zone?
