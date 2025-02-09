@@ -1,6 +1,10 @@
 # MINNEHACKS-25
 
-Ideas:
-- Post "SideQuests" on a map for people to see. Users go to events and get rewarded. Gamifying meeting new people and social connection.
-- "Vibe Vault" post chill spots and rate them on sociability, noise, vibe, etc. Place to post places people can go to meet new people.
+# Side-Quest IRL : Prototype
+
+- Web App Designed for users to see local user created "Side Quests" (Local Events)
+- Users can create events by pinpointing the location on the map
+- Users can attend sidequests and gain exp for new titles and rewards
+
+
 
